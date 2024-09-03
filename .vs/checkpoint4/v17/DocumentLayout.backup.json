@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FIAP\\.net\\cp1\\checkpoint4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\controllers\\exchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:controllers\\exchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\interfaces\\iconversionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:interfaces\\iconversionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\interfaces\\iexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:interfaces\\iexchangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\models\\conversionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:models\\conversionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\services\\conversionrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:services\\conversionrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\checkpoint4.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:checkpoint4.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|e:\\fiap\\.net\\cp1\\checkpoint4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7264842-4B1D-4ED9-8E81-EEE6F2CA8B12}|checkpoint4.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "checkpoint4.http",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\checkpoint4.http",
+              "RelativeDocumentMoniker": "checkpoint4.http",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\checkpoint4.http",
+              "RelativeToolTip": "checkpoint4.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-02T22:03:15.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConversionRateService.cs",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Services\\ConversionRateService.cs",
+              "RelativeDocumentMoniker": "Services\\ConversionRateService.cs",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Services\\ConversionRateService.cs",
+              "RelativeToolTip": "Services\\ConversionRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:52:30.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversionRate.cs",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Models\\ConversionRate.cs",
+              "RelativeDocumentMoniker": "Models\\ConversionRate.cs",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Models\\ConversionRate.cs",
+              "RelativeToolTip": "Models\\ConversionRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:51:56.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConversionRate.cs",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Interfaces\\IConversionRate.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IConversionRate.cs",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Interfaces\\IConversionRate.cs",
+              "RelativeToolTip": "Interfaces\\IConversionRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:47:58.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T21:39:57.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T21:35:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExchangeController.cs",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Interfaces\\IExchangeController.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IExchangeController.cs",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Interfaces\\IExchangeController.cs",
+              "RelativeToolTip": "Interfaces\\IExchangeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:39:15.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExchangeController.cs",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Controllers\\ExchangeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExchangeController.cs",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Controllers\\ExchangeController.cs",
+              "RelativeToolTip": "Controllers\\ExchangeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:36:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\FIAP\\.net\\cp1\\checkpoint4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:07:33.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
