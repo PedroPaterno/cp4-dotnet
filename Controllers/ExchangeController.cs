@@ -11,7 +11,7 @@ namespace cp4.Controllers
     public class ExchangeController : ControllerBase, IExchangeController
     {
         private readonly HttpClient _httpClient;
-        private const string ApiKey = "de57eae077d496d8b855b3e3";
+        private const string ApiKey = "33f7859e1e50eef068ec4652";
         private const string BaseUrl = "https://v6.exchangerate-api.com/v6/";
         private const string CurrencyEndpoint = "latest/USD";
 

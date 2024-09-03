@@ -7,7 +7,7 @@ class Program
     static async Task Main(string[] args)
     {
         
-        string url = "https://v6.exchangerate-api.com/v6/de57eae077d496d8b855b3e3/latest/USD";
+        string url = "https://v6.exchangerate-api.com/v6/33f7859e1e50eef068ec4652/latest/USD";
 
         
         using (HttpClient client = new HttpClient())
