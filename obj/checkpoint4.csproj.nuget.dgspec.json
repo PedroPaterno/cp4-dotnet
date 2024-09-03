@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FIAP\\.net\\cp1\\checkpoint4\\checkpoint4.csproj": {}
+    "C:\\Users\\minec\\OneDrive\\Documents\\fiap\\teste\\cp4-dotnet\\checkpoint4.csproj": {}
   },
   "projects": {
-    "E:\\FIAP\\.net\\cp1\\checkpoint4\\checkpoint4.csproj": {
+    "C:\\Users\\minec\\OneDrive\\Documents\\fiap\\teste\\cp4-dotnet\\checkpoint4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FIAP\\.net\\cp1\\checkpoint4\\checkpoint4.csproj",
+        "projectUniqueName": "C:\\Users\\minec\\OneDrive\\Documents\\fiap\\teste\\cp4-dotnet\\checkpoint4.csproj",
         "projectName": "checkpoint4",
-        "projectPath": "E:\\FIAP\\.net\\cp1\\checkpoint4\\checkpoint4.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "E:\\FIAP\\.net\\cp1\\checkpoint4\\obj\\",
+        "projectPath": "C:\\Users\\minec\\OneDrive\\Documents\\fiap\\teste\\cp4-dotnet\\checkpoint4.csproj",
+        "packagesPath": "C:\\Users\\minec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minec\\OneDrive\\Documents\\fiap\\teste\\cp4-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\minec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

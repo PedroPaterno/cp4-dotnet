@@ -1,7 +1,10 @@
-﻿using checkpoint4.Interfaces;
-using checkpoint4.Models;
+﻿using cp4.Models;
+using System.Net.Http;
+using System.Net.Http.Json;
+using System.Threading.Tasks;
+using System.Collections.Generic;
 
-namespace checkpoint4.Services
+namespace cp4.Services
 {
     public class ConversionRateService
     {
@@ -24,7 +27,9 @@ namespace checkpoint4.Services
                 {
                     BRL = result.ConversionRates["BRL"]
                 };
-                return conversionRate;
+
+                // Conversão explícita para IConversionRate
+                return (IConversionRate)conversionRate;
             }
 
             throw new HttpRequestException("Erro ao obter a taxa de câmbio.");
@@ -35,6 +40,4 @@ namespace checkpoint4.Services
     {
         public Dictionary<string, double> ConversionRates { get; set; }
     }
-
-
 }
